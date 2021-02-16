@@ -27,7 +27,7 @@ ESC key     -> Quit
 ```
 ## Compiling
 ```
-git clone 
+git clone https://github.com/HenriqueIII/Monster-Game.git
 make
 ```
 ## Start
