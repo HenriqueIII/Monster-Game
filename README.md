@@ -7,6 +7,6 @@ A monster is eliminated by colliding with other monster.
 You play using the following controls:
 
 > Up arrow -> move one unit up
-> Down arrow -> move one unit down
-> Left arrow -> move one unit left
-> Right arrow -> move one unit right
+Down arrow -> move one unit down
+Left arrow -> move one unit left
+Right arrow -> move one unit right
