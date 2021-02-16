@@ -11,16 +11,16 @@ A monster is eliminated by colliding with other monster.
 ## Movements
 You play using the following controls:
 ```
-Up arrow 		-> move one unit up
-Down arrow 	-> move one unit down
-Left arrow 	-> move one unit left
+Up arrow    -> move one unit up
+Down arrow  -> move one unit down
+Left arrow  -> move one unit left
 Right arrow -> move one unit right
-Home key 		-> obliquious movement left/up
-PgUp key 		-> obliquious movement right/up
-End key 		-> obliquious movement left/down
-PgDn key 		-> obliquious movement right/down
-Insert key	-> Random movement (you can collide with a monster)
-ESC key			-> Quit
+Home key    -> obliquious movement left/up
+PgUp key    -> obliquious movement right/up
+End key     -> obliquious movement left/down
+PgDn key    -> obliquious movement right/down
+Insert key  -> Random movement (you can collide with a monster)
+ESC key     -> Quit
 ```
 ## Download
 ```
