@@ -23,14 +23,17 @@ Insert key	-> Random movement (you can collide with a monster)
 ESC key			-> Quit
 ```
 ## Download
-´´´
-´´´
+```
+```
 ## Compiling
-´´´
+```
 git clone 
 make
-´´´
+```
 ## Start
-´´´
+```
 bin/main
-´´´
+```
+## Questions
+If you have any question about the code, or some improvements please contact me at:
+> paulogoncalves.m@gmail.com
