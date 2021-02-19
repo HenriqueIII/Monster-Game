@@ -22,13 +22,19 @@ PgDn key    -> obliquious movement right/down
 Insert key  -> Random movement (you can collide with a monster)
 ESC key     -> Quit
 ```
-## Download
+## Dependencies
 ```
+sudo apt install g++
+sudo apt install libncurses5-dev libncursesw5-dev
 ```
 ## Compiling
 ```
 git clone https://github.com/HenriqueIII/Monster-Game.git
+cd Monster-Game
 make
+```
+## Download
+```
 ```
 ## Start
 ```
