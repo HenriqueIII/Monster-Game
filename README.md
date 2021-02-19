@@ -36,7 +36,7 @@ make
 ## Download
 ```
 Download at(choose the version according to your os).
-https://github.com/HenriqueIII/Monster-Game/releases/latest
+> [1]https://github.com/HenriqueIII/Monster-Game/releases/latest
 ```
 ## Start
 ```
