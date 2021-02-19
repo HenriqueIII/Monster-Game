@@ -34,10 +34,9 @@ cd Monster-Game
 make
 ```
 ## Download
-```
-Download at(choose the version according to your os).
-> [1]https://github.com/HenriqueIII/Monster-Game/releases/latest
-```
+Download at: (choose the version to your os)
+> https://github.com/HenriqueIII/Monster-Game/releases/latest
+
 ## Start
 ```
 bin/main
